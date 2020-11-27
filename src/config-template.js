@@ -1,0 +1,3 @@
+module.exports = {
+    MONGODB: 'REPLACE WITH YOUR MONGO DB SERVER OR MONGO DB ATLAS URL',
+};
